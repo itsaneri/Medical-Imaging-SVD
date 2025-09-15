@@ -37,11 +37,11 @@ Dataset contains:
 ---
 
 ## 🤝 Contributors
+- Aneri Soni
 - Ritik Raut  
 - Amitesh Sahoo  
 - Charani Sri Veerla  
 - Asmita Pal  
-- Aneri Soni  
 
 ---
 
